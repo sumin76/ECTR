@@ -1,3 +1,5 @@
+# Ewha Cho Tong Ryeong
+
 # 초통령 뽀롱뽀롱뽀로로
 
 # 📚 Python Study Group
